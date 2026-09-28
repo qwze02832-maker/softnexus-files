@@ -1,11 +1,11 @@
--
-Name : Adobe Photoshop
-Description : Профессиональный графический редактор.
+Name : Minecraft PE (Bedrock)
+Description : Полная версия популярной песочницы. Строь, выживай, исследуй бесконечные миры и играй по сети с друзьями.
 Verification : 1
-File : https://archive.org/download/ссылка_на_фотошоп.zip
+Publisher : matt
+File : ССЫЛКА_НА_GITHUB_APK
 -
-Name : Blender
-Description : 3D моделирование и анимация.
+Name : Geometry Dash (Full v2.2)
+Description : Полная платная версия культового ритм-платформера со всеми уровнями, кастомизацией и редактором уровней.
 Verification : 0
-File : https://archive.org/download/ссылка_на_блендер.zip
--
+Publisher : matt
+File : ССЫЛКА_НА_GITHUB_APK
