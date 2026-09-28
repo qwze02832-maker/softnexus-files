@@ -9,3 +9,9 @@ Description : Полная платная версия культового ри
 Verification : 1
 Publisher : minematt
 File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/APK.Mod._geometry-dash_v.2.2.144_.androidapplications.store.apk
+---
+Name : VLC for Android
+Description : Надежный медиаплеер с открытым исходным кодом без рекламы, поддерживающий любые форматы видео и аудио.
+Verification : 1
+Publisher : minematt
+File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/VLC.for.Android.apk
