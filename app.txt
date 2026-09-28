@@ -1,0 +1,11 @@
+-
+Name : Adobe Photoshop
+Description : Профессиональный графический редактор.
+Verification : 1
+File : https://archive.org/download/ссылка_на_фотошоп.zip
+-
+Name : Blender
+Description : 3D моделирование и анимация.
+Verification : 0
+File : https://archive.org/download/ссылка_на_блендер.zip
+-
