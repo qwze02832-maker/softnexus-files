@@ -1,4 +1,3 @@
--
 Name : Minecraft PE (Bedrock)
 Description : Полная версия популярной песочницы. Строь, выживай, исследуй бесконечные миры и играй по сети с друзьями.
 Verification : 1
@@ -10,4 +9,3 @@ Description : Полная платная версия культового ри
 Verification : 1
 Publisher : minematt
 File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/APK.Mod._geometry-dash_v.2.2.144_.androidapplications.store.apk
--
