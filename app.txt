@@ -1,11 +1,11 @@
 Name : Minecraft PE (Bedrock)
 Description : Полная версия популярной песочницы. Строь, выживай, исследуй бесконечные миры и играй по сети с друзьями.
 Verification : 1
-Publisher : matt
-File : ССЫЛКА_НА_GITHUB_APK
+Publisher : minematt
+File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/minecraft-26-52-03-arm64-v8a-xbox-servers-compressed.apk
 -
 Name : Geometry Dash (Full v2.2)
 Description : Полная платная версия культового ритм-платформера со всеми уровнями, кастомизацией и редактором уровней.
-Verification : 0
-Publisher : matt
-File : ССЫЛКА_НА_GITHUB_APK
+Verification : 1
+Publisher : minematt
+File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/APK.Mod._geometry-dash_v.2.2.144_.androidapplications.store.apk
