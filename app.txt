@@ -18,6 +18,6 @@ File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/
 ---
 Name : Vrombr
 Description : Официальная игра из Google Play из моих личных архивов. Больше не поддерживается разработчиками и не запускается на новых версиях Android, залил в каталог чисто для истории.
-Verification : 1
+Verification : 0
 Publisher : minematt
 File : https://github.com/qwze02832-maker/softnexus-files/releases/download/1.0/Vrombr.apk
